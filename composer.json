@@ -1,0 +1,8 @@
+{
+    "name": "puri/pruy-routing",
+    "description": "Routing for PHP",
+    "require": {} ,
+    "autoload": {
+        "psr-4": {"PruyRouting\\": "PruyRouting/"}
+    }
+}
